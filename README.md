@@ -94,3 +94,4 @@ El frontend estará disponible en: http://localhost:5173
 - **Backend**: Python 3.11, FastAPI, Pydantic v2, pytest
 - **Frontend**: React 18, Vite, Tailwind CSS
 - **Testing**: pytest, pytest-cov
+# proyecto_nomina

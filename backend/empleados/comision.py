@@ -119,3 +119,5 @@ class EmpleadoPorComision(Empleado):
             Monto total de beneficios (bono de alimentación).
         """
         return BONO_ALIMENTACION
+
+
